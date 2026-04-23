@@ -1,63 +1,88 @@
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020408,30:001829,60:002d4a,100:00aaff&height=220&section=header&text=KAUSHAL%20DALWALA&fontSize=54&fontColor=00ffe0&fontAlignY=40&desc=ISRO%20Trainee%20%7C%7C%20AI%20Engineer%20%7C%7C%20Code%20Architect&descAlignY=60&descSize=15&descColor=88ccff&animation=fadeIn&stroke=00ffe0&strokeWidth=1" /><br/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=00FFE0&center=true&vCenter=true&width=700&height=40&lines=system.init();+loading+modules...;deploying+neural+networks;optimizing+space+systems;learning+from+distributed+data;git+push+origin+main" alt="Typing SVG" /><br/><h3>
-  <a href="#whoami"><code>[ WhoAmI ]</code></a> &nbsp;&nbsp;
-  <a href="#projects"><code>[ Projects ]</code></a> &nbsp;&nbsp;
-  <a href="#skills"><code>[ Skills ]</code></a> &nbsp;&nbsp;
-  <a href="#connect"><code>[ Contact ]</code></a>
-</h3></div>---
+🌌 KAUSHAL DALWALA
 
-⚡ "system.init()"
+🚀 AI/ML Enthusiast | ISRO Project Contributor
 
-<div id="whoami"></div>class KaushalDalwala:
-    def __init__(self):
-        self.role = "Trainee Engineer @ ISRO"
-        self.focus = ["Computer Vision", "AI/ML", "Cybersecurity"]
-        self.status = "System Operational 🚀"
-        
-    def get_mission(self):
-        return "Bridging space-systems engineering with modern AI architectures."
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=0AFFEF&center=true&vCenter=true&width=600&lines=Building+Impactful+Systems;AI%2FML+%7C+IoT+%7C+Networking;ISRO+Project+Contributor" />
+</p>---
 
-📂 projects.inference()
+🛰️ ISRO Project — PAHAL Phase-04
 
-<div id="projects"></div>Click on the sections below to interact and view details.
+«💡 Contributed to a technology-driven project under ISRO Initiative»
 
-<details>
-<summary><b>🛰️ ISRO Mission Support (Computer Vision)</b></summary>AI-driven analysis for satellite data.
+✨ Built structured system components
+⚡ Focused on performance & real-world constraints
+🧩 Applied problem-solving in a research-oriented environment
 
-<ul>
-<li><b>Tech:</b> Python, YOLOv8, OpenCV, CNNs.</li>
-<li><b>Result:</b> Automated object detection in mission-critical satellite telemetry.</li>
-</ul>
-</details><details>
-<summary><b>🎭 Deep-Fake Detection Pipeline</b></summary>A robust forgery analysis tool for high-res media.
+---
 
-<ul>
-<li><b>Tech:</b> PyTorch, Spatial/Temporal Analysis.</li>
-<li><b>Result:</b> Detecting synthetically manipulated audio/visual data.</li>
-</ul>
-</details><details>
-<summary><b>🤖 Mansik: Local AI Agent (RAG)</b></summary>A private, offline-first AI chat application.
+🛠️ Core Tech (Derived from Work)
 
-<ul>
-<li><b>Tech:</b> Ollama, LangChain, ChromaDB.</li>
-<li><b>Result:</b> Packaged as a portable .exe for secure local deployment.</li>
-</ul>
-</details><details>
-<summary><b>🌐 GeoSite Intelligence</b></summary>Infrastructure planning platform for Telecom/ISP deployment.
+"Python" "C/C++" "JavaScript" "Java"
+"Flask" "HTML" "CSS"
+"MongoDB" "SQL"
+"Networking (IPv6 Sockets)"
+"Flutter (Basics)"
 
-<ul>
-<li><b>Tech:</b> Leaflet.js, DBSCAN Clustering, Claude API.</li>
-<li><b>Result:</b> Optimized site selection via geospatial AI scoring.</li>
-</ul>
-</details>🛠 skills.map(s => s.mastered)
+---
 
-<div id="skills"></div><div align="center">Languages
+🔥 Key Projects (From GitHub)
 
-AI & ML Pipeline
+🧠 Gartner Duct Detection System (MRI)
+→ Deep Learning-based medical image analysis system
 
-Backend & Tools
+⚙️ C++ ML Library
+→ Custom implementation of ML concepts in C++
 
-</div>📈 metrics.fetch("live")
+🌐 CRUD System (Flask + JS + HTML)
+→ Full-stack application with backend logic & UI
 
-<div align="center"><img height="180" src="https://github-readme-stats.vercel.app/api?username=Kaushaldalwala&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020408&title_color=00ffe0&icon_color=00aaff&text_color=a8d8ea&ring_color=00ffe0" /><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushaldalwala&layout=compact&theme=tokyonight&hide_border=true&bg_color=020408&title_color=00ffe0&text_color=a8d8ea" /></div>📬 contact.connect()
+📡 IPv6 Socket Communication
+→ Low-level networking project using socket programming
 
-<div id="connect"></div><div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00aaff,50:001829,100:020408&height=100&section=footer&animation=fadeIn" /></div>
+📱 Flutter Weather App
+→ Mobile app consuming APIs for real-time weather
+
+☁️ Weather App (Web)
+→ API-based weather prediction interface
+
+---
+
+🧠 Skills Gained from GitHub
+
+🔹 System-level problem solving (C++ / Networking)
+🔹 Backend development using Flask
+🔹 Applied Machine Learning (medical imaging)
+🔹 API integration & real-time data handling
+🔹 Version control (Git workflows, commits, PRs)
+🔹 Debugging, testing, and optimization
+
+---
+
+📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaushaldalwala&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaushaldalwala&theme=tokyonight&hide_border=true" />
+</p><p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushaldalwala&layout=compact&theme=tokyonight&hide_border=true" />
+</p>---
+
+📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaushaldalwala&theme=tokyo-night&hide_border=true" />
+</p>---
+
+🤝 Connect With Me
+
+📧 Email: kaushaldalwala1503@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/kaushaldalwala
+
+---
+
+⚡ Developer Focus
+
+«Building intelligent and efficient systems combining AI, backend, and low-level programming 🚀»
+
+---
